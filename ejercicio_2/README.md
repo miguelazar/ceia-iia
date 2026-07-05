@@ -1,5 +1,5 @@
 # Torre de Hanoi - Búsqueda A* con heurística propia
-
+![Logo](img/hanoi_01.png)
 **Inteligencia Artificial - CEIA - FIUBA**
 **Ejercicio Módulo 2**
 
