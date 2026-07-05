@@ -13,7 +13,7 @@ El objetivo es encontrar la secuencia óptima de movimientos que traslada todos 
 
 | Archivo | Descripción |
 |---|---|
-| `exercise_2.ipynb` | Notebook con la implementación de A* y la heurística |
+| `exercise_2_azar.ipynb` | Notebook con la implementación de A* y la heurística |
 | `aima_libs/` | Librería base de la cátedra (estados, nodos y problema de Hanoi) |
 
 ## Algoritmo implementado
@@ -79,7 +79,7 @@ En la primera celda del notebook, antes de cualquier import, ejecutar:
 %cd intro_ia/clase2/content/hanoi_tower
 ```
 
-Esto descarga la librería `aima_libs` necesaria para correr el notebook. Luego, subir o pegar el contenido de `exercise_2.ipynb` en esa misma sesión y ejecutar las celdas en orden.
+Esto descarga la librería `aima_libs` necesaria para correr el notebook. Luego, subir o pegar el contenido de `exercise_2_azar.ipynb` en esa misma sesión y ejecutar las celdas en orden.
 
 ### En entorno local
 
@@ -87,7 +87,7 @@ Esto descarga la librería `aima_libs` necesaria para correr el notebook. Luego,
 2. Asegurarse de que la carpeta `aima_libs/` esté en el mismo directorio que `exercise_2.ipynb`.
 3. Abrir el notebook con Jupyter y ejecutar las celdas en orden:
    ```bash
-   jupyter notebook exercise_2.ipynb
+   jupyter notebook exercise_2_azar.ipynb
    ```
 
 ## Autor
