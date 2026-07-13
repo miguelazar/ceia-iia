@@ -1,5 +1,7 @@
-# N Reinas - Búsqueda Local: Hill Climbing y Simulated Annealing
+# N Reinas - Búsqueda Local con Simulated Annealing
+
 ![Logo](img/n_queens_01.png)
+
 **Inteligencia Artificial - CEIA - FIUBA**
 **Ejercicio Módulo 3**
 
